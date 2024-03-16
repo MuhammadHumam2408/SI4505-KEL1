@@ -1,12 +1,11 @@
-<<<<<<< HEAD
+
 Bila aku harus mencintai
 Dan berbagi hati, itu hanya denganmu
 Namun bila ku harus tanpamu
 Akan tetap kuarungi hidup tanpa cinta
 
 - Andhika idham
-...
-=======
+
 Waktu terus berlalu
 Tanpa kusadari yang ada hanya
 Aku dan kenangan
@@ -35,5 +34,4 @@ Akan tetap kuarungi hidup tanpa bercinta
 ...
 
 
-
->>>>>>> ba0c219ede4a508e79904a1b6e3ec292d611357b
+...
