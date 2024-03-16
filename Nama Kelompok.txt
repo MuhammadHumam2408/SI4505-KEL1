@@ -1,2 +1,6 @@
 Muhammad Humam
+<<<<<<< HEAD
 Nuraini Fauziyah
+=======
+Justin Surya Dharma
+>>>>>>> ee1dea7c499a9a3740fa2fb504a70ce1e2907125
