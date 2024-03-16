@@ -1,6 +1,14 @@
 Muhammad Humam
 <<<<<<< HEAD
+<<<<<<< HEAD
 Farel Baihaky
+=======
+<<<<<<< HEAD
+Nuraini Fauziyah
+=======
+Andhika Idham Putra Pratama
+>>>>>>> acff97d463426bf82b96e00368a64f8a64250f2d
+>>>>>>> 7af322b3785744ffe8f2e1a3c54b24cc45e7b796
 =======
 Justin Surya Dharma
 >>>>>>> ee1dea7c499a9a3740fa2fb504a70ce1e2907125
